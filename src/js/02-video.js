@@ -1,5 +1,5 @@
 import Player from '@vimeo/player';
-import throttle from 'simplelightbox/dist/simple-lightbox.min.css';
+import throttle from 'throttle';
 
 const CURRENT_TIME_KEY = 'videoplayer-current-time';
 
